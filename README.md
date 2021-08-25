@@ -1,3 +1,9 @@
+# NewsApp - News Web App using React
+
+<details>
+
+<summary><b>⚡ React App Related Information</b></summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
+<details>
+
+<summary><b>⚡Other Information</b></summary>
+
+I am learning React by working on this newsapp and Learning from CodeWithHarry. [React Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
+
+</details>
