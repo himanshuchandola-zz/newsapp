@@ -1,4 +1,4 @@
-# NewsApp - News Web App using React .
+# NewsApp - News Web App using React
 
 <details>
 
