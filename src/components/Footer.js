@@ -10,7 +10,7 @@ export class Footer extends Component {
                     color: "white",
                     padding: "10px"
                 }}>
-                    Copyright &copy; 2021 NewsMonkey
+                    NewsApp - React Based Web App Open Source.
                 </footer>
             </>
         )
